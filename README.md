@@ -31,6 +31,7 @@ int main(){
       <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=white">
       <img alt="Java" src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=openjdk&logoColor=white">
       <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python">
+        <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-100000?style=for-the-badge&logo=matlab">
       <img alt="Assembly" src="https://img.shields.io/badge/assembly-100000?style=for-the-badge&logo=assembly">
       <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
       <img alt="GitHub" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github">
