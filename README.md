@@ -2,7 +2,7 @@
 
     
 - :crossed_swords: Studying Cyber ​​Security.
-- :computer: Computer Engineering Student at Federal University of Technology – Parana [(UTFPR)](https://portal.utfpr.edu.br/home) - 4th semester.
+- :computer: Computer Engineering Student at Federal University of Technology – Parana [(UTFPR)](https://portal.utfpr.edu.br/home) - 5th semester.
 
 ```C
 #include <stdio.h>
@@ -12,7 +12,7 @@ int main(){
 
     char info[128] = "Cyber Security and Computer Engineering";
     char pronouns[4] = "he/him";
-    char *langs[5] = {"C/C++", "SQL", "Java", "Python", "Assembly"};
+    char *langs[8] = {"C/C++", "SQL", "Java", "Python", "JavaScript", "Assembly", "GoLang", "NoSQL"};
 
 
     // ... i love games and cats <3 
@@ -31,8 +31,11 @@ int main(){
       <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=white">
       <img alt="Java" src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=openjdk&logoColor=white">
       <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python">
+        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=yellow">
         <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-100000?style=for-the-badge&logo=matlab">
       <img alt="Assembly" src="https://img.shields.io/badge/assembly-100000?style=for-the-badge&logo=assembly">
+      <img alt="Golang" src="https://img.shields.io/badge/golang-100000?style=for-the-badge&logo=go&logoColor=blue">
+      <img alt="NoSQL" src="https://img.shields.io/badge/nosql-100000?style=for-the-badge&logo=mongodb&logoColor=green">
       <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
       <img alt="GitHub" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github">
     </div>
