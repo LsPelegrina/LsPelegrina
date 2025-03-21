@@ -2,7 +2,7 @@
 
     
 - :crossed_swords: Studying Cyber ​​Security.
-- :computer: Computer Engineering Student at Federal University of Technology – Parana [(UTFPR)](https://portal.utfpr.edu.br/home) - 5th semester.
+- :computer: Computer Engineering Student at Universidade Tecnológica Federal do Paraná – [(UTFPR)](https://portal.utfpr.edu.br/home) - 6th semester.
 
 ```C
 #include <stdio.h>
@@ -22,27 +22,80 @@ int main(){
 }
 ```
 
-# Tecnologias
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYno5aGdyanp3b28xMm51aG8ydnh6a3ZiYWZudGw0dmw3a2hscDA5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vfTnz2QVJ1ip2/giphy.gif">
+## Tecnologias
   <div align="left">
-    <div>
-      <img alt="C" src="https://img.shields.io/badge/c-100000?style=for-the-badge&logo=c&logoColor=blue">
-      <img alt="C++" src="https://img.shields.io/badge/c++-100000?style=for-the-badge&logo=c%2B%2B&logoColor=blue">
-      <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=white">
-      <img alt="Java" src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=openjdk&logoColor=white">
-      <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python">
-        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=yellow">
-        <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-100000?style=for-the-badge&logo=matlab">
-      <img alt="Assembly" src="https://img.shields.io/badge/assembly-100000?style=for-the-badge&logo=assembly">
-      <img alt="Golang" src="https://img.shields.io/badge/golang-100000?style=for-the-badge&logo=go&logoColor=blue">
-      <img alt="NoSQL" src="https://img.shields.io/badge/nosql-100000?style=for-the-badge&logo=mongodb&logoColor=green">
-      <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
-      <img alt="GitHub" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github">
-    </div>
-    <hr height="1">
-  </div>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lspelegrina&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lspelegrina&layout=compact&theme=graywhite&hide_border=true" width="313" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://camo.githubusercontent.com/088613be10856a26a2fae323c3c705780f0227de7605bdc0c60f55007339d7bd/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596e6f3561476479616e7033623238784d6d353161473879646e683661335a6959575a7564477730646d773361326873634441354e435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f7666546e7a3251564a316970322f67697068792e676966"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LsPelegrina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LsPelegrina&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lspelegrina/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:lspelegrina@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/pelegrina_lucas/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
