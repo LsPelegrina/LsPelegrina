@@ -73,15 +73,14 @@ int main(){
 
 ###
 
-<br clear="both">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <!-- Estatísticas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=LsPelegrina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1" height="185" alt="Estatísticas do GitHub" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LsPelegrina&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="185" alt="Linguagens mais usadas" />
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/088613be10856a26a2fae323c3c705780f0227de7605bdc0c60f55007339d7bd/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596e6f3561476479616e7033623238784d6d353161473879646e683661335a6959575a7564477730646d773361326873634441354e435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f7666546e7a3251564a316970322f67697068792e676966"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LsPelegrina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LsPelegrina&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="185" alt="languages graph"  />
+  <!-- Imagem do gato -->
+  <img src="https://camo.githubusercontent.com/088613be10856a26a2fae323c3c705780f0227de7605bdc0c60f55007339d7bd/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596e6f3561476479616e7033623238784d6d353161473879646e683661335a6959575a7564477730646d773361326873634441354e435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f7666546e7a3251564a316970322f67697068792e676966" height="110" alt="Imagem do gato" />
 </div>
 
 ###
